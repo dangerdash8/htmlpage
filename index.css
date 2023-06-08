@@ -1,4 +1,9 @@
-.heading{
+p{
     background-color: black;
     color: white;
+}
+.btn{
+    background-color: red;
+    color: green;
+    border-radius: 10px;
 }
